@@ -1,6 +1,5 @@
 # Ejercicio:
 Construye un algoritmo que, al recibir como datos el ID del empleado y los seis primeros sueldos del año, calcule el ingreso total semestral y el promedio mensual, e imprima el ID del empleado, el ingreso total y el promedio mensual.
----
 
 ## Pseucódigo:
 
