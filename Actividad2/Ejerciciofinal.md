@@ -52,9 +52,16 @@ Si cumple.
 Indica si las siguientes afirmaciones son ciertas o falsas respecto al pseudocódigo y diagramas de flujo:
 
 1. **El pseudocódigo utiliza símbolos estándar para representar las operaciones lógicas.:** 
-2. Los diagramas de flujo son una representación gráfica de un algoritmo.
-3. El pseudocódigo debe estar escrito en un lenguaje de programación específico.
-4. Un diagrama de flujo siempre debe tener un inicio y un fin claramente definidos.
+ Falso. El pseudocódigo no utiliza símbolos gráficos, emplea una descripción escrita, similar al lenguaje natural o a la lógica de programación, para representar algoritmos.
+
+2. **Los diagramas de flujo son una representación gráfica de un algoritmo:**
+Cierto. Los diagramas de flujo muestran gráficamente los pasos de un algoritmo usando símbolos como óvalos (inicio/fin), rectángulos (procesos), rombos (decisiones), etc.
+
+3. **El pseudocódigo debe estar escrito en un lenguaje de programación específico:**
+Falso. El pseudocódigo no se escribe en un lenguaje de programación específico. Se escribe en un lenguaje normal, permite entender fácilmente la lógica del algoritmo sin preocuparse tanto por la sintaxis.
+
+4. **Un diagrama de flujo siempre debe tener un inicio y un fin claramente definidos:**
+Cierto. Para que un diagrama de flujo sea claro y este completo debe tener un símbolo de inicio y uno de fin, indicando dónde comienza y termina el algoritmo.
 
 ### Parte 5: Estructuras de Control
 
