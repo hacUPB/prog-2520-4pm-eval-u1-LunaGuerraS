@@ -25,7 +25,9 @@ Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de
 
 ```
 Inicio
-Leer cant_lapices >= 1000
+Leer cant_lapices
+
+Si cant_lapices >= 1000
     valor_unidad = 85
 
 Si no
