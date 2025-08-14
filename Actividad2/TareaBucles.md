@@ -59,5 +59,16 @@ Tienen una tarjeta de $10.000.000. Calcular el valor de todas las cuotas sabiend
 
 ### Análisis
 
+| Variables de entrada| Descripción |
+|---------------------|-------------|
+|  |   |
 
+| Variable de salida | Descripción |
+|--------------------|-------------|
+|  |  |
+|  |  |
+|  |  |
+
+| Control | Descripción |
+| Cuotas |  |
  
